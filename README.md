@@ -7,6 +7,7 @@ Convert2Read 是一个轻型的工具，用于将网页转为标准 Markdown 文
 
 ## Credits
 
-The icon of EZRead Program is made by [Freepik](https://www.freepik.com/home) from [www.flaticon.com](www.flaticon.com).
+The icon of EZRead Program is made by [Freepik](https://www.flaticon.com/authors/payungkead) from [www.flaticon.com](https://www.flaticon.com).
 
-EZRead 的图标由 [www.flaticon.com](www.flaticon.com) 网站的 [Freepik](https://www.freepik.com/home) 设计制作。
+EZRead 的图标由 [www.flaticon.com](https://www.flaticon.com) 网站的 [Freepik](https://www.flaticon.com/authors/payungkead) 设计制作。
+
