@@ -21,9 +21,28 @@ Convert2Read 是一个轻型的工具，用于将网页转为标准 Markdown 文
 + MikTeX\TeX Live\TinyTeX 三选一；
 + Python。
 
+转化命令
+```python
+pip install pyinstaller
+pyinstaller -onefile --icon=myicon.ico main.py
+```
+
+去除 cmd 黑窗和单位件
+```python
+pyinstaller -w -F main.py
+```
+
+
 ## Credits
 
 The icon of EZRead Program is made by [Freepik](https://www.flaticon.com/authors/payungkead) from [www.flaticon.com](https://www.flaticon.com).
 
 EZRead 的图标由 [www.flaticon.com](https://www.flaticon.com) 网站的 [Freepik](https://www.flaticon.com/authors/payungkead) 设计制作。
 
+## Reference
+
++ Python 如何生成 Windows 可执行的 exe 文件
++ 给 Python 程序制作高大上的 Windows 安装包
++ GUI Programming with TKinter(code4example)
+
+Talk is cheap, show me the code.
