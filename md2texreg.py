@@ -5,7 +5,7 @@ file_string = f.read()
 print(file_string)
 
 default_string1 = r"""
-\documentclass[cn]{elegantpaper}
+\documentclass[cn]{elegantbool}
 
 \title{Example of Converting Markdown to \LaTeX{} File \\ Markdown 转为 \LaTeX{} 示例}
 
